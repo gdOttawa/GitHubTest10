@@ -29,6 +29,8 @@ public class LinkedListOps1 {
   }
 }
 
+/* Adding comments in middle. */
+
 class Student {
   private final String name;
   private final int rollNumber;
